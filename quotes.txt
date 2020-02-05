@@ -1,4 +1,4 @@
 "Be kind, for those you meet are facing a hard battle."
 "Hello World is a very over-used string"
-"akhuguareighairueghrasuigh"
+
 "Git is not easy"
