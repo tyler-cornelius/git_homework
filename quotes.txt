@@ -1,0 +1,3 @@
+"Be kind, for those you meet are facing a hard battle."
+"Hello World is a very over-used string"
+"Shoobly Doobly"
